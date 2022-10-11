@@ -7,6 +7,9 @@
 ### Cписок используемых технологий:
 Django, DRF
 
+
+![This is an image](https://github.com/abdurazak1/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+
 ### Как запустить проект:
 
 Клонировать репозиторий и перейти в папку infra_sp2/infra/
